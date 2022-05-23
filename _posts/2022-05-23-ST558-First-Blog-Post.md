@@ -2,8 +2,12 @@
 
     Being a data scientist is about translating data into information that can be used through the use of computers.  This involves writing complex programs and algorithms that can sort through large data sets.  Therefore, data scientists must be familiar with a plethora of languages including Python, Java, C, R, and SQL. Data scientists also need to have a solid knowledge of statistics, in order to achieve results and interpret them.  Equally as important as programming skills and statistical knowledge is subject matter knowledge.  Data scientists must have expertise in the field in which they are working in, so that they can apply their findings to the real world and relay relevant information to colleagues with less experience data and statistics.  This also requires great communication skills.
     
+```
+
     While data scientists are required to have some background in statistics, they generally only scratch the surface of the world of statistics.  There is a vast ocean of mathematical theory behind statistics, and why it is mathematically valid to use many of the ideas that come naturally to us, like the central limit theorem or the law of large numbers.  A statistician is one who has been through the proofs and understands the calculus and foundations of the field of statistics.  Statisticians also are going to be well versed in model building, data collection, and experimental design.  They historically tend to work on a smaller scale than data scientists do.  That's not to say they are totally different, in fact, much of data science is rooted in core statistical properties.  Data scientists would be hard pressed to find uses for their data without summary statistics, plots, model building, and many more.  The issue is that currently their tends to be a gap in between data scientists and statisticians, where data scientists lack mathematical and theoretical backgrounds, statisticians lack programming skills and computer knowledge in general.  This is rapidly changing, however, as both fields make pushes to fill in these gaps in schools.
-    
+   
+```
+
     I personally lie more on the statistician side of the spectrum.  While I feel quite comfortable with R and SAS, I am still far from being an expert programmer with those languages.  Apart from that, I have little experience using general languages like Java, Python, and C.  Academically, I have taken many mathematical statistics classes, as well as pure math classes.  This was the reason I chose this course, I need to improve myself in the programming side of things.
  
     
