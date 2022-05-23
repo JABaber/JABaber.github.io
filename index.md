@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Josh Baber, I am a Master's of Statistics student at North Carolina State University.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Here I will be writing blog posts for ST558, Data Science for Statisticians.
