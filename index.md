@@ -1,4 +1,4 @@
-![Logo](/JABaber.github.io/docs/assets/stat-logo-red.png)
+![Logo](https://www4.stat.ncsu.edu/~boos/75/graphics/stat-logo-red.png)
 
 # Josh Baber's Main Page
 
