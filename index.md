@@ -1,4 +1,4 @@
-![]("C:\Users\squas\OneDrive\Pictures\Camera Roll\stat-logo-red.png")
+![NC State Stats Logo]("")
 
 # Josh Baber's Main Page
 
