@@ -1,4 +1,4 @@
-![Logo](JABaber.github.io/docs/assets/stat-logo-red.png)
+![Logo](/JABaber.github.io/docs/assets/stat-logo-red.png)
 
 # Josh Baber's Main Page
 
