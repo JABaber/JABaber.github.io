@@ -1,4 +1,4 @@
-![NC State Stats Logo]("")
+![NC State Stats Logo](JABaber.github.io/assets/stat-logo-red.png)
 
 # Josh Baber's Main Page
 
