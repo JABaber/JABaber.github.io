@@ -62,4 +62,4 @@ and I have much more to learn.
 plot(iris)
 ```
 
-![](C:\Users\squas\OneDrive\Desktop\ST558~1\JABABE~1.IO_posts\2022-0~1/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](imagesunnamed-chunk-1-1.png)<!-- -->
