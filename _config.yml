@@ -40,3 +40,5 @@ defaults:
       type: post
     values:
       tags: Blog Posts
+
+permalink: /:title.html
