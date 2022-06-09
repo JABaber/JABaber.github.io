@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, fig.path = "images")
+knitr::opts_chunk$set(echo = TRUE, fig.path = "../images/")
 ```
 
 ## Thoughts on R
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE, fig.path = "images")
   
 ## Example R Markdown Output
 
-```{r}
+```{r, fig.path = "../images/"}
 plot(iris)
 ```
 
