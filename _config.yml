@@ -34,11 +34,11 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-permalink: /:title.html
-
 defaults:
   - scope:
       path: ""
       type: post
     values:
       tags: Blog Posts
+
+permalink: /:title.html
