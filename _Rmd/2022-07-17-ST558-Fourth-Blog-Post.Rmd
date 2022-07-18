@@ -13,6 +13,6 @@ https://www.kaggle.com/datasets/pushprajnamdev/diabetes-dataset
 
 ```{r}
 library(tidyverse)
-diabetes <- read_csv("../Data/diabetes.csv")
+diabetes <- read_csv("../../Data/diabetes.csv")
 ```
 
